@@ -23,7 +23,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
-gem 'carrierwave', '0.10.0'
+gem 'carrierwave', '1.3.2'
 gem 'mini_magick', '3.8.0'
 
 # Use ActiveModel has_secure_password
